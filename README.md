@@ -1,21 +1,24 @@
-# Python para Análise de Dados
-### 1. Introdução
-### 2. Primeiros Passos com a Linguagem Python - Visão Geral, Instalação e ChatGPT
-### 3. Linguagem Python Nível Introdutório - Introdução à Lógica de Programação
-### 4. Linguagem Python Nível Introdutório -Variáveis, Tipos e Estruturas de Dados
-### 5. Linguagem Python Nível Introdutório - Loops, Condicionais, Métodos e Funções
-### 6. Arquivos, Módulos, Pacotes e Funções Built-in
-### 7. Projeto 1
-### 8. Programação Orientada a Objetos
-### 9. Numpy
-### 10.Pandas 
-### 11.Matplotlib e Seaborn
-### 12.Python e SQL
-### 13.Projeto 2
-### 14.Statsmodels
-### 15.Machine Learning com Scikit-Learn
-### 16.Séries Temporais
-### 17.Deep Learning com TensorFlow
-### 18.Reinforcement Learning
-### 19.Projeto 3
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+## Repositório das atividades do curso:
+### Python para Análise de Dados
+#### Conteúdo: 
+   1. Numpy
+      
+   2. Pandas 
+   
+   3. Matplotlib e Seaborn
+   
+   4. Python e SQL     
+   
+   5. Statsmodels
+   
+   6. Machine Learning com Scikit-Learn
+   
+   7. Séries Temporais
+   
+   8. Deep Learning com TensorFlow
+   
+   9. Reinforcement Learning
 
+### License
+Este projeto está sobre a [MIT License](LICENSE).
